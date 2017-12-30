@@ -37,8 +37,8 @@ class AboutUsFragment : BaseFragment(), View.OnClickListener {
     var tvWebsiteIntent: TextView? = null
     var rbRatingBar: RatingBar? = null
 
-    override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        val view = inflater!!.inflate(R.layout.fragment_about_us, container, false)
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        val view = inflater.inflate(R.layout.fragment_about_us, container, false)
         ivMenu = view.findViewById(R.id.iv_menu)
         ivBack = view.findViewById(R.id.iv_back)
         tvTitle = view.findViewById(R.id.tv_title)
@@ -104,7 +104,7 @@ class AboutUsFragment : BaseFragment(), View.OnClickListener {
     private fun mapIntent() {
         val uri = String.format(Locale.ENGLISH, "geo:%f,%f", 23.077309, 72.507228)
         val intent = Intent(Intent.ACTION_VIEW, Uri.parse(uri))
-        context.startActivity(intent)
+        context?.startActivity(intent)
     }
 
     private fun webIntent() {

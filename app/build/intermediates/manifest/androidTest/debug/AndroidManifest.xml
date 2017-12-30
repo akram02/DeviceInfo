@@ -4,7 +4,7 @@
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"
@@ -13,7 +13,7 @@
         android:label="Tests for com.quixom.deviceinfo"
         android:targetPackage="com.quixom.deviceinfo" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

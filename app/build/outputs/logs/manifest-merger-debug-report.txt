@@ -1,153 +1,190 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:2:1-50:12
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ccb2bf748fc9b3018a443e68ff837916/AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/a/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/0e99affc0d3dfb6137210feea14df36c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c0cd162a3cbab6293325d2e0d91beaf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dedb201f2a89bc8c9fb1431d8cd939a6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/abbea3df37cb5e6dba95cbfc54e1e390/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/887dbf8651e1b2b0f3144eaa87779c64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/a/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2202845c7c79b0e1dea48fbd5d0bb6c7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/a/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/e6537a6fcc2be5bf945ff5a0bf9fc8be/AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/a/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/6aff03f96491a8feef137e214d070e53/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/93170a67436993341cad23d6644e4935/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5b67650f285b7e1dc3cc08982980253f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/718e57c138ffbc698fcd653e1248991c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b286449cddbcf25af42830dba08bd249/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/c8e16708cf7b32b3b09d700f52bcfcb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/73367c76a85eff54d29cd0c8e997492e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ae20e1312d7988fc49e1574cc9708caa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/4a7a915f33d625586024ff7ff5dfd6dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/5a122f36c39c0a61d4b05b258da50a62/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/a/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f1f5ca64bac9355802815d75261b6438/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:7:5-79
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:8:5-76
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:8:22-73
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:7:22-73
 uses-permission#android.permission.CAMERA
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:9:5-65
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:9:22-62
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:9:22-66
 uses-feature#android.hardware.sensor.proximity
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:11:5-13:35
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:11:5-13:36
 	android:required
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:13:9-32
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:12:9-57
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:12:9-57
 uses-feature#android.hardware.sensor.gyroscope
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:14:5-16:35
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:16:9-32
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:15:9-57
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:15:9-57
 uses-feature#android.hardware.wifi
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:18:5-20:35
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:18:5-20:36
 	android:required
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:20:9-32
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:19:9-45
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:19:9-45
 uses-feature#android.hardware.camera
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:22:5-60
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:22:5-60
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:22:19-57
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:22:19-57
+supports-screens
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:24:5-29:11
+	android:largeScreens
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:27:9-36
+	android:smallScreens
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:25:9-36
+	android:normalScreens
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:26:9-37
+	android:resizeable
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:28:9-34
 application
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:24:5-48:19
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/akif/.android/build-cache/290ae60e485212e7edfd949ceeb362f271565772/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/akif/.android/build-cache/92449659d4bca1c779a12d85c0d3269aebbaa105/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/akif/.android/build-cache/4f83979b83af762cc312e6922b3f7b854a7e831c/output/AndroidManifest.xml:26:5-20
-MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/akif/.android/build-cache/fbff7c40a7aca9490f9d2ab7c31bb6ee0cf24095/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/akif/.android/build-cache/a441afc6d91c509a560626035a7f9f99c0b46b10/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/akif/.android/build-cache/079e855b4e35667a916e1f9c9848cd5ceda0de74/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/akif/.android/build-cache/8a74ff0855332b435f9cf7b9e9e184424a371820/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/akif/.android/build-cache/fbe1db5011dd65fc47e643f56d55e06a453114cf/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/akif/.android/build-cache/b701dc80d4a1940cd4fcd4ec483539b8f7529737/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/akif/.android/build-cache/3afaad852846d04a8aa1a40668548eb22d24d0bb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/eea77ffc70cc313beb886002124b1567c389c3ac/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/006049d4176f309c84948d6e3d135c154bdc18ed/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/akif/.android/build-cache/e4ca429e1680cbc7db778e0afe53e6dab2d6c123/output/AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:28:9-41
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:31:5-55:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/a/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/0e99affc0d3dfb6137210feea14df36c/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/a/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/0e99affc0d3dfb6137210feea14df36c/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dedb201f2a89bc8c9fb1431d8cd939a6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dedb201f2a89bc8c9fb1431d8cd939a6/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:30:9-35
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:35:9-41
 	android:roundIcon
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:29:9-48
-	android:allowBackup
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:36:9-48
 	android:icon
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:27:9-43
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:34:9-43
+	android:allowBackup
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:33:9-35
 	android:theme
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:31:9-40
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:38:9-40
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:25:9-42
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:32:9-42
 activity#com.quixom.apps.deviceinfo.MainActivity
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:32:9-34:52
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:39:9-41:52
 	android:screenOrientation
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:34:13-49
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:33:13-41
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:40:13-41
 activity#com.quixom.apps.deviceinfo.Splash
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:36:9-47:20
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:43:9-54:20
 	android:screenOrientation
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:38:13-49
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:45:13-49
 	android:theme
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:39:13-44
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:46:13-44
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:37:13-35
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:44:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:41:13-45:29
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:48:13-52:29
 action#android.intent.action.MAIN
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:42:17-69
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:42:25-66
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:49:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:44:17-77
+ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml:44:27-74
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml:51:27-74
 uses-sdk
-INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/akif/.android/build-cache/a0ff8b2c3fa881cac8d2f9f1477bfc3d599d3633/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/akif/.android/build-cache/290ae60e485212e7edfd949ceeb362f271565772/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/akif/.android/build-cache/92449659d4bca1c779a12d85c0d3269aebbaa105/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/akif/.android/build-cache/4f83979b83af762cc312e6922b3f7b854a7e831c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.8.1] /home/akif/.android/build-cache/245eead5cce2f3508600ab3d4300ffcd92e259ae/output/AndroidManifest.xml:5:5-43
-MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/akif/.android/build-cache/f27e474d1cd73619a65ddac66327d8bf1ef42d50/output/AndroidManifest.xml:8:5-10:41
-MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/akif/.android/build-cache/fbff7c40a7aca9490f9d2ab7c31bb6ee0cf24095/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/akif/.android/build-cache/a441afc6d91c509a560626035a7f9f99c0b46b10/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/akif/.android/build-cache/079e855b4e35667a916e1f9c9848cd5ceda0de74/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/akif/.android/build-cache/8a74ff0855332b435f9cf7b9e9e184424a371820/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/akif/.android/build-cache/fbe1db5011dd65fc47e643f56d55e06a453114cf/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/akif/.android/build-cache/b701dc80d4a1940cd4fcd4ec483539b8f7529737/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/akif/.android/build-cache/3afaad852846d04a8aa1a40668548eb22d24d0bb/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/eea77ffc70cc313beb886002124b1567c389c3ac/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/006049d4176f309c84948d6e3d135c154bdc18ed/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/akif/.android/build-cache/e4ca429e1680cbc7db778e0afe53e6dab2d6c123/output/AndroidManifest.xml:21:5-23:58
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/akif/.android/build-cache/125b1f7bc6941aabbdd6b4a5d9701467c43fb3a4/output/AndroidManifest.xml:7:5-9:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:23:9-59
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ccb2bf748fc9b3018a443e68ff837916/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ccb2bf748fc9b3018a443e68ff837916/AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/a/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/0e99affc0d3dfb6137210feea14df36c/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/a/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/0e99affc0d3dfb6137210feea14df36c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c0cd162a3cbab6293325d2e0d91beaf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c0cd162a3cbab6293325d2e0d91beaf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dedb201f2a89bc8c9fb1431d8cd939a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dedb201f2a89bc8c9fb1431d8cd939a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/abbea3df37cb5e6dba95cbfc54e1e390/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/abbea3df37cb5e6dba95cbfc54e1e390/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/887dbf8651e1b2b0f3144eaa87779c64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/887dbf8651e1b2b0f3144eaa87779c64/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/a/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2202845c7c79b0e1dea48fbd5d0bb6c7/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/a/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/2202845c7c79b0e1dea48fbd5d0bb6c7/AndroidManifest.xml:5:5-43
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/a/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/e6537a6fcc2be5bf945ff5a0bf9fc8be/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/a/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/e6537a6fcc2be5bf945ff5a0bf9fc8be/AndroidManifest.xml:8:5-10:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/a/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/6aff03f96491a8feef137e214d070e53/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/a/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/6aff03f96491a8feef137e214d070e53/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/93170a67436993341cad23d6644e4935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/93170a67436993341cad23d6644e4935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5b67650f285b7e1dc3cc08982980253f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5b67650f285b7e1dc3cc08982980253f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/718e57c138ffbc698fcd653e1248991c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/718e57c138ffbc698fcd653e1248991c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b286449cddbcf25af42830dba08bd249/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/b286449cddbcf25af42830dba08bd249/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/c8e16708cf7b32b3b09d700f52bcfcb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/c8e16708cf7b32b3b09d700f52bcfcb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/73367c76a85eff54d29cd0c8e997492e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/73367c76a85eff54d29cd0c8e997492e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ae20e1312d7988fc49e1574cc9708caa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ae20e1312d7988fc49e1574cc9708caa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/4a7a915f33d625586024ff7ff5dfd6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/4a7a915f33d625586024ff7ff5dfd6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/5a122f36c39c0a61d4b05b258da50a62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/a/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/5a122f36c39c0a61d4b05b258da50a62/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/a/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f1f5ca64bac9355802815d75261b6438/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/a/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f1f5ca64bac9355802815d75261b6438/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akif/Documents/Android/Android Projects/Android Sensor/DevInfo/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/akif/.android/build-cache/a0ff8b2c3fa881cac8d2f9f1477bfc3d599d3633/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/akif/.android/build-cache/290ae60e485212e7edfd949ceeb362f271565772/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/akif/.android/build-cache/4f83979b83af762cc312e6922b3f7b854a7e831c/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/akif/.android/build-cache/a441afc6d91c509a560626035a7f9f99c0b46b10/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/akif/.android/build-cache/079e855b4e35667a916e1f9c9848cd5ceda0de74/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/akif/.android/build-cache/8a74ff0855332b435f9cf7b9e9e184424a371820/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/akif/.android/build-cache/fbe1db5011dd65fc47e643f56d55e06a453114cf/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/akif/.android/build-cache/b701dc80d4a1940cd4fcd4ec483539b8f7529737/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/akif/.android/build-cache/3afaad852846d04a8aa1a40668548eb22d24d0bb/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/eea77ffc70cc313beb886002124b1567c389c3ac/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/akif/.android/build-cache/006049d4176f309c84948d6e3d135c154bdc18ed/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/akif/.android/build-cache/e4ca429e1680cbc7db778e0afe53e6dab2d6c123/output/AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:27:9-38
-	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/akif/.android/build-cache/57ee978c4927334126320fcf4970b158cae8279d/output/AndroidManifest.xml:26:9-47
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		ADDED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/a/Desktop/Anko/DeviceInfo/app/src/main/AndroidManifest.xml
